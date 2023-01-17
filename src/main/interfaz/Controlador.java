@@ -9,6 +9,7 @@ public class Controlador {
 			public void run() {
 				try {
 					PantallaPrincipal window = new PantallaPrincipal();
+					System.out.println("prueba de f94133");
 					window.setVisible(true);
 				} catch (Exception e) {
 					e.printStackTrace();
